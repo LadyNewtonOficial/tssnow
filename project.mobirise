@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "stolenhearts.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -533,8 +533,8 @@
             "paddingBottom": "1",
             "bgColor": "#fffffd"
           },
-          "title": "<b>Stolen Hearts</b>",
-          "meta": "MISCHIEF MATCHMAKERS",
+          "title": "<b>Chaotic</b>",
+          "meta": "ARCANE MAGE SERIES BOOK 1",
           "_tags": [
             "Theme"
           ],
