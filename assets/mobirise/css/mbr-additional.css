@@ -1,13 +1,10 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
-
-
-
 
 
 
@@ -566,6 +563,11 @@ section.form .container {
   flex-wrap: wrap;
   margin: 0 -15px;
 }
+#menu1-0 {
+  
+  
+  
+}
 #menu1-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -672,11 +674,16 @@ section.form .container {
 #content3-7 H1 {
   font-family: 'Oswald', sans-serif;
 }
+#subscribe1-4 {
+  
+}
 #subscribe1-4 .form-control-label {
   color: undefined;
 }
 #subscribe1-4 .mbr-section-title {
-  font-size: 24px;
+  font-size: 14px;
+  font-family: 'Merriweather', serif;
+  color: #232323;
 }
 #footer2-m .footer-list {
   color: #42a5c5;
