@@ -680,10 +680,24 @@ section.form .container {
 #subscribe1-4 .form-control-label {
   color: undefined;
 }
+#subscribe1-4 .form-control-label {
+  color: undefined;
+}
 #subscribe1-4 .mbr-section-title {
   font-size: 14px;
   font-family: 'Merriweather', serif;
   color: #232323;
+}
+#footer2-m .footer-list {
+  color: #42a5c5;
+}
+#footer2-m .btn-social {
+  border-color: #42a5c5;
+  color: #42a5c5;
+}
+#footer2-m .btn-social:hover {
+  background: #42a5c5;
+  color: #fff;
 }
 #footer2-m .footer-list {
   color: #42a5c5;
@@ -783,7 +797,7 @@ section.form .container {
   color: #4a4a4a;
 }
 #content8-i P {
-  color: #bdb39a;
+  color: #9bc9d9;
 }
 #footer2-m .footer-list {
   color: #42a5c5;
@@ -885,7 +899,7 @@ section.form .container {
   color: #4a4a4a;
 }
 #content8-d P {
-  color: #bdb39a;
+  color: #9bc9d9;
 }
 #footer2-m .footer-list {
   color: #42a5c5;
