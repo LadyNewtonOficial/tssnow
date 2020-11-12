@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -35,14 +35,34 @@
     "imageResize": true,
     "uniqCompNum": 32,
     "versionPublish": "4.12.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. ",
+      "textButton": "Agree"
+    },
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-R13SZ2312L\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-R13SZ2312L');\n</script>",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "gdpr": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "T.S.Snow",
+        "meta_descr": "\nA scientist at heart, T.S. Snow lives in a land far far away, secluded from most authors and readers (rumor has it that if you open your wardrobe you can find her hiding in there trying to take a nap). T.S. has a thirst for learning new languages, even if she is mostly worried about finding out new curse words in them. She has an amazing support system that include a loving boyfriend, her family, friends and her loyal - if completely lazy - dog. When she's not writing, T.S. can often be found causing complete chaos with her friends on social media, inhaling unhealthy amounts of coffee, or napping. Mostly napping.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -355,9 +375,9 @@
     },
     "chaotic.html": {
       "settings": {
-        "title": "AMS-Book1-chaotic",
+        "title": "Arcane Mage Series",
         "order": 2,
-        "meta_image": "@PROJECT_PATH@/assets/images/image0-600x900.jpeg",
+        "meta_image": "@PROJECT_PATH@/assets/images/chaotic-final-ebook-1807x2700.jpeg",
         "meta_descr": "\nThe Arcane Mage series follows the path of Charisma Carter, tech genius and nerd extraordinary, as she tries to find her way as a Magical Engineer in a society that shunned her. In order to do that, Charisma has to use her socially awkward skills to juggle hot men who are after her for reasons only they know, her family, and all the obligations of her job.\n"
       },
       "components": [
