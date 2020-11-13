@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 32,
+    "uniqCompNum": 39,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -335,9 +335,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "heading": "T. S. Snow",
-          "list1": "Stolen Hearts",
-          "list2": "<a href=\"http://mobirise.com\">A</a>rcane Mage Series",
+          "heading": "T.S.Snow",
+          "list1": "<a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a>",
+          "list2": "<a href=\"chaotic.html\">Arcane Mage Series</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
           "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
@@ -346,17 +346,12 @@
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"fa fa-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-amazon mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
           "_name": "footer2",
-          "_anchor": "footer2-m",
-          "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"59\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"163\">T. S. Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"164\"><a href=\"http://mobirise.com\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"165\"><a href=\"http://mobirise.com\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"166\"><i class=\"socicon socicon-facebook\"></i></a>   <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" code-editable-id=\"167\"><i class=\"socicon socicon-instagram\"></i></a>  <a class=\"btn btn-social mbr-editable-button\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" code-editable-id=\"168\"><span class=\"fa fa-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>    </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true,
+          "_anchor": "footer2-w",
           "_styles": {
             ".footer-list": {
               "color": "@infoColor"
@@ -368,6 +363,9 @@
             ".btn-social:hover": {
               "background": "@infoColor",
               "color": "#fff"
+            },
+            ".footer-header": {
+              "font-size": "22px"
             }
           }
         }
@@ -579,9 +577,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "heading": "T. S. Snow",
-          "list1": "Stolen Hearts",
-          "list2": "<a href=\"http://mobirise.com\">A</a>rcane Mage Series",
+          "heading": "Copyright 2020 - T.S.Snow",
+          "list1": "<a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a>",
+          "list2": "<a href=\"chaotic.html\" target=\"_blank\">Arcane Mage Series</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
           "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
@@ -590,30 +588,17 @@
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"fa fa-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>     ",
           "_tags": [
             "Theme"
           ],
           "_name": "footer2",
-          "_anchor": "footer2-m",
-          "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"59\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"64\">T. S. Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"65\"><a href=\"http://mobirise.com\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"66\"><a href=\"http://mobirise.com\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"67\"><i class=\"socicon socicon-facebook\"></i></a>   <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" code-editable-id=\"68\"><i class=\"socicon socicon-instagram\"></i></a>  <a class=\"btn btn-social mbr-editable-button\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" code-editable-id=\"69\"><span class=\"fa fa-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>    </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
+          "_anchor": "footer2-x",
+          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"70\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"169\">Copyright 2020 - T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"170\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"171\"><a href=\"chaotic.html\" target=\"_blank\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"172\"><i class=\"socicon socicon-facebook\"></i></a>   <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" code-editable-id=\"173\"><i class=\"socicon socicon-instagram\"></i></a><a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" code-editable-id=\"174\"><i class=\"socicon socicon-amazon\"></i></a><a class=\"btn btn-social mbr-editable-button\" title=\"Bookub\" target=\"_blank\" href=\"https://www.bookbub.com/profile/t-s-snow\" code-editable-id=\"175\"><i class=\"mbri-bootstrap\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          }
+          "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n",
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -820,63 +805,6 @@
           "_customTemplate": true
         },
         {
-          "_params": {
-            "showIcons": true,
-            "rows": "2",
-            "listColor": "@infoColor",
-            "btnColor": "@infoColor",
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.4
-          },
-          "heading": "T. S. Snow",
-          "list1": "Stolen Hearts",
-          "list2": "<a href=\"http://mobirise.com\">A</a>rcane Mage Series",
-          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
-          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
-          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
-          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
-          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
-          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
-          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
-          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"fa fa-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>    ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer2",
-          "_anchor": "footer2-m",
-          "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"59\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"117\">T. S. Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"118\"><a href=\"http://mobirise.com\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"119\"><a href=\"http://mobirise.com\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"120\"><i class=\"socicon socicon-facebook\"></i></a>   <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" code-editable-id=\"121\"><i class=\"socicon socicon-instagram\"></i></a>  <a class=\"btn btn-social mbr-editable-button\" title=\"Tumblr\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" code-editable-id=\"122\"><span class=\"fa fa-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>    </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true,
-          "_styles": {
-            ".footer-list": {
-              "color": "@infoColor"
-            },
-            ".btn-social": {
-              "border-color": "@infoColor",
-              "color": "@infoColor"
-            },
-            ".btn-social:hover": {
-              "background": "@infoColor",
-              "color": "#fff"
-            }
-          }
-        },
-        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -980,6 +908,61 @@
           ],
           "_name": "menu1",
           "_anchor": "menu1-v"
+        },
+        {
+          "_params": {
+            "showIcons": true,
+            "rows": "2",
+            "listColor": "@infoColor",
+            "btnColor": "@infoColor",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.4
+          },
+          "heading": "T.S.Snow",
+          "list1": "<a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a>",
+          "list2": "<a href=\"chaotic.html\">Arcane Mage Series</a>",
+          "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
+          "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
+          "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
+          "list6": "<a href=\"http://mobirise.com\">Contact forms</a>",
+          "list7": "<a href=\"http://mobirise.com\">Image gallery</a>",
+          "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
+          "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
+          "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-amazon mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer2",
+          "_anchor": "footer2-w",
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            },
+            ".footer-header": {
+              "font-size": "22px"
+            }
+          }
         }
       ]
     }

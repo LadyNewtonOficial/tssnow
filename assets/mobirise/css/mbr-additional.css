@@ -665,27 +665,19 @@ section.form .container {
   font-family: 'Merriweather', serif;
   color: #232323;
 }
-#footer2-m .footer-list {
+#footer2-w .footer-list {
   color: #42a5c5;
 }
-#footer2-m .btn-social {
+#footer2-w .btn-social {
   border-color: #42a5c5;
   color: #42a5c5;
 }
-#footer2-m .btn-social:hover {
+#footer2-w .btn-social:hover {
   background: #42a5c5;
   color: #fff;
 }
-#footer2-m .footer-list {
-  color: #42a5c5;
-}
-#footer2-m .btn-social {
-  border-color: #42a5c5;
-  color: #42a5c5;
-}
-#footer2-m .btn-social:hover {
-  background: #42a5c5;
-  color: #fff;
+#footer2-w .footer-header {
+  font-size: 22px;
 }
 
 
@@ -726,25 +718,14 @@ section.form .container {
 #buttons1-t .btn {
   font-size: 20px;
 }
-#footer2-m .footer-list {
+#footer2-x .footer-list {
   color: #42a5c5;
 }
-#footer2-m .btn-social {
+#footer2-x .btn-social {
   border-color: #42a5c5;
   color: #42a5c5;
 }
-#footer2-m .btn-social:hover {
-  background: #42a5c5;
-  color: #fff;
-}
-#footer2-m .footer-list {
-  color: #42a5c5;
-}
-#footer2-m .btn-social {
-  border-color: #42a5c5;
-  color: #42a5c5;
-}
-#footer2-m .btn-social:hover {
+#footer2-x .btn-social:hover {
   background: #42a5c5;
   color: #fff;
 }
@@ -837,28 +818,6 @@ section.form .container {
 #content8-d P {
   color: #9bc9d9;
 }
-#footer2-m .footer-list {
-  color: #42a5c5;
-}
-#footer2-m .btn-social {
-  border-color: #42a5c5;
-  color: #42a5c5;
-}
-#footer2-m .btn-social:hover {
-  background: #42a5c5;
-  color: #fff;
-}
-#footer2-m .footer-list {
-  color: #42a5c5;
-}
-#footer2-m .btn-social {
-  border-color: #42a5c5;
-  color: #42a5c5;
-}
-#footer2-m .btn-social:hover {
-  background: #42a5c5;
-  color: #fff;
-}
 #menu1-v .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -929,4 +888,18 @@ section.form .container {
 }
 #menu1-v .navbar-caption {
   font-family: 'Lora', serif;
+}
+#footer2-w .footer-list {
+  color: #42a5c5;
+}
+#footer2-w .btn-social {
+  border-color: #42a5c5;
+  color: #42a5c5;
+}
+#footer2-w .btn-social:hover {
+  background: #42a5c5;
+  color: #fff;
+}
+#footer2-w .footer-header {
+  font-size: 22px;
 }
