@@ -48,7 +48,7 @@
       "text": "We use cookies to give you the best experience. ",
       "textButton": "Agree"
     },
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-R13SZ2312L\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-R13SZ2312L');\n</script>",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-R13SZ2312L\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-R13SZ2312L');\n</script>\n\n<script>\n  (function(w, d, t, s, n) {\n    w.FlodeskObject = n;\n    var fn = function() {\n      (w[n].q = w[n].q || []).push(arguments);\n    };\n    w[n] = w[n] || fn;\n    var f = d.getElementsByTagName(t)[0];\n    var e = d.createElement(t);\n    var h = '?v=' + new Date().getTime();\n    e.async = true;\n    e.src = s + h;\n    f.parentNode.insertBefore(e, f);\n  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');\n</script>",
     "favicon": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -273,104 +273,22 @@
           "alias": "formbuilder",
           "_isSecondary": true,
           "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            ".mbr-overlay": {
-              "background-color": "@overlayColor",
-              "opacity": "@overlayOpacity"
-            },
-            "& when (@bg-type = 'image')": {
-              "background-image": "url(@bg-value)"
-            },
-            "& when (@bg-type = 'color')": {
-              "background-color": "@bg-value"
-            },
-            "& when (@customStyle)": {
-              ".form-control, .field-input": {
-                "padding": "0.5rem",
-                "background-color": "@fieldColor",
-                "border-color": "@borderColor",
-                "color": "@formText",
-                "transition": "0.4s",
-                "box-shadow": "none",
-                "outline": "none",
-                "&::-webkit-input-placeholder, &::-webkit-input-placeholder": {
-                  "color": "@formPlaceholder"
-                },
-                "&:-moz-placeholder, &:-moz-placeholder": {
-                  "color": "@formPlaceholder"
-                },
-                "&:hover, &:focus": {
-                  "background-color": "@fieldHover",
-                  "border-color": "@borderHover",
-                  "color": "@formFocusText",
-                  "box-shadow": "none",
-                  "outline": "none",
-                  "&::-webkit-input-placeholder, &::-webkit-input-placeholder": {
-                    "color": "@formFocusPlaceholder"
-                  },
-                  "&:-moz-placeholder, &:-moz-placeholder": {
-                    "color": "@formFocusPlaceholder"
-                  }
-                }
-              },
-              ".jq-number__spin:hover, .jq-number__spin:focus": {
-                "background-color": "@fieldHover",
-                "border-color": "@borderHover",
-                "color": "contrast(@formText, #000000, #ffffff, 30%)",
-                "box-shadow": "none",
-                "outline": "none"
-              },
-              ".jq-number__spin": {
-                "background-color": "@fieldColor",
-                "border-color": "@borderColor",
-                "color": "@formText",
-                "transition": "0.4s",
-                "box-shadow": "none",
-                "outline": "none"
-              },
-              ".jq-selectbox li, .jq-selectbox li": {
-                "background-color": "@fieldColor",
-                "color": "contrast(@fieldColor, #000000, #ffffff, 30%)"
-              },
-              ".jq-selectbox li:hover, .jq-selectbox li.selected": {
-                "background-color": "@fieldHover",
-                "color": "contrast(@fieldHover, #000000, #ffffff, 30%)"
-              },
-              ".jq-selectbox:hover .jq-selectbox__trigger-arrow, .jq-number__spin.minus:hover:after, .jq-number__spin.plus:hover:after": {
-                "border-top-color": "@fieldColor",
-                "border-bottom-color": "@fieldColor"
-              },
-              ".jq-selectbox .jq-selectbox__trigger-arrow, .jq-number__spin.minus:after, .jq-number__spin.plus:after": {
-                "border-top-color": "@fieldHover",
-                "border-bottom-color": "@fieldHover"
-              }
-            },
-            "& when (@customStyle), (@disableElements)": {
-              "input::-webkit-clear-button": {
-                "display": "none"
-              },
-              "input::-webkit-inner-spin-button": {
-                "display": "none"
-              },
-              "input::-webkit-outer-spin-button": {
-                "display": "none"
-              },
-              "input::-webkit-calendar-picker-indicator": {
-                "display": "none"
-              }
-            }
+            "padding-top": "45px",
+            "padding-bottom": "45px",
+            "background-color": "#ffffff"
           },
           "_name": "formbuilder",
-          "_customHTML": "<section class=\"form\" group=\"Form\" plugins=\"formstyler, datepicker\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"5\">\n        <header>Style</header>\n        <input type=\"checkbox\" name=\"customStyle\" title=\"Custom Style\">\n        <input type=\"checkbox\" name=\"disableElements\" title=\"Disable Control\">\n        <input type=\"color\" name=\"fieldColor\" title=\"Field\" value=\"#ffffff\" condition=\"customStyle\">\n        <input type=\"color\" name=\"fieldHover\" title=\"Field Hover\" value=\"#efefef\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderColor\" title=\"Border\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"borderHover\" title=\"Border Hover\" value=\"#cccccc\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formText\" title=\"Text\" value=\"#000000\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusText\" title=\"Text Focus\" value=\"#232323\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formPlaceholder\" title=\"Placeholders\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <input type=\"color\" name=\"formFocusPlaceholder\" title=\"Placeholders Focus\" value=\"#c1c1c1\" condition=\"customStyle\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\">\n            <input type=\"image\" title=\"Background Image\" value=\"../assets/background.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#ffffff\" selected=\"\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked=\"\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n        <input type=\"range\" inline=\"\" title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay &amp;&amp; bg.type !== 'color'\">\n    <input type=\"hidden\" name=\"usedRecaptcha\" value=\"false\"></mbr-parameters>\n    <div class=\"mbr-overlay\" mbr-if=\"(overlay &amp;&amp; bg.type=='image')\"></div>\n    <div class=\"container\">\n        <div class=\"row\">\n            <div mbr-form=\"\" class=\"col-lg-8 mx-auto mbr-form\">\n<!--Formbuilder Form-->\n<form action=\"\" name=\"Newsleter\" method=\"POST\" data-rcpha_sitekey=\"\" data-rcpha_secretkey=\"\" class=\"mbr-form form-with-styler\">\n<div class=\"form-row\">\n<div hidden=\"hidden\" data-form-alert=\"\" class=\"alert alert-success col-12\">Thanks for filling out the form!</div>\n<div hidden=\"hidden\" data-form-alert-danger=\"\" class=\"alert alert-danger col-12\">Oops...! some problem!</div>\n</div>\n<div class=\"dragArea form-row\">\n<div class=\"col-lg-12 col-md-12 col-sm-12\">\n<h4 mbr-theme-style=\"display-5\" class=\"mbr-fonts-style\">Subscribe to my newsletter!</h4>\n</div>\n<div class=\"col-lg-12 col-md-12 col-sm-12 form-group\" data-for=\"name\">\n<input type=\"text\" name=\"name\" placeholder=\"Name\" data-form-field=\"name\" mbr-theme-style=\"display-7\" class=\"form-control\" value=\"\">\n</div>\n<div data-for=\"email\" class=\"col-lg-12 col-md-12 col-sm-12 form-group\">\n<input type=\"email\" name=\"email\" placeholder=\"Email\" data-form-field=\"email\" mbr-theme-style=\"display-7\" class=\"form-control\" value=\"\">\n</div>\n<div class=\"col-auto\" mbr-buttons=\"true\" mbr-theme-style=\"display-7\" data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\">\n<a data-toolbar=\"-mbrBtnMove,-mbrLink,-mbrBtnRemove,-mbrBtnAdd\" type=\"submit\" class=\"btn btn-primary\">Submit</a>\n</div>\n</div>\n</form><!--Formbuilder Form-->\n</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]",
           "_cid": "sgO9aCwC5F",
           "_anchor": "formbuilder-13",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script>\n  window.fd('form', {\n    formId: '5fc55ddd12ed667015a5b6d6',\n    containerEl: '#fd-form-5fc55ddd12ed667015a5b6d6'\n  });\n</script>"
+          ],
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_params": {}
         },
         {
           "_params": {
@@ -410,6 +328,11 @@
           ],
           "_name": "footer2",
           "_anchor": "footer2-w",
+          "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n.footer-header {\n  font-size: 22px;\n}\n",
+          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"26\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"27\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"28\"><a href=\"chaotic.html\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"29\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Google+\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" code-editable-id=\"30\"></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" code-editable-id=\"31\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true,
           "_styles": {
             ".footer-list": {
               "color": "@infoColor"
@@ -421,9 +344,6 @@
             ".btn-social:hover": {
               "background": "@infoColor",
               "color": "#fff"
-            },
-            ".footer-header": {
-              "font-size": "22px"
             }
           }
         }
@@ -635,9 +555,9 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.4
           },
-          "heading": "Copyright 2020 - T.S.Snow",
+          "heading": "T.S.Snow",
           "list1": "<a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a>",
-          "list2": "<a href=\"chaotic.html\" target=\"_blank\">Arcane Mage Series</a>",
+          "list2": "<a href=\"chaotic.html\">Arcane Mage Series</a>",
           "list3": "<a href=\"http://mobirise.com\">Trendy website blocks</a>",
           "list4": "<a href=\"http://mobirise.com\">Host anywhere</a>",
           "list5": "<a href=\"http://mobirise.com\">Image/Content slider</a>",
@@ -646,13 +566,12 @@
           "list8": "<a href=\"http://mobirise.com\">Mobile menu</a>",
           "list9": "<a href=\"http://mobirise.com\">Google maps</a>",
           "list10": "<a href=\"http://mobirise.com\">Fonts and icons</a>",
-          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-amazon mbr-iconfont mbr-iconfont-btn\"></span></a>     ",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-amazon mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 25px;\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>      ",
           "_tags": [
             "Theme"
           ],
           "_name": "footer2",
           "_anchor": "footer2-x",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"70\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"169\">Copyright 2020 - T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"170\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"171\"><a href=\"chaotic.html\" target=\"_blank\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"172\"><i class=\"socicon socicon-facebook\"></i></a>   <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\" code-editable-id=\"173\"><i class=\"socicon socicon-instagram\"></i></a><a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" code-editable-id=\"174\"><i class=\"socicon socicon-amazon\"></i></a><a class=\"btn btn-social mbr-editable-button\" title=\"Bookub\" target=\"_blank\" href=\"https://www.bookbub.com/profile/t-s-snow\" code-editable-id=\"175\"><i class=\"mbri-bootstrap\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n",

@@ -651,13 +651,20 @@ section.form .container {
   font-family: 'Oswald', sans-serif;
 }
 .cid-sgO9aCwC5F {
-  padding-top: 75px;
-  padding-bottom: 75px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
-.cid-sgO9aCwC5F .mbr-overlay {
-  background-color: #ffffff;
-  opacity: 0.4;
+#footer2-w .footer-list {
+  color: #42a5c5;
+}
+#footer2-w .btn-social {
+  border-color: #42a5c5;
+  color: #42a5c5;
+}
+#footer2-w .btn-social:hover {
+  background: #42a5c5;
+  color: #fff;
 }
 #footer2-w .footer-list {
   color: #42a5c5;
