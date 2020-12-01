@@ -650,10 +650,17 @@ section.form .container {
 #content3-7 H1 {
   font-family: 'Oswald', sans-serif;
 }
-.cid-sgO9aCwC5F {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+#custom-html-14 {
+  /* Type valid CSS here */
+}
+#custom-html-14 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-14 p {
+  font-size: 60px;
+  color: #777;
 }
 #footer2-w .footer-list {
   color: #42a5c5;
