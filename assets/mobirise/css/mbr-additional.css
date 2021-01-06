@@ -911,3 +911,114 @@ section.form .container {
 #footer2-w .footer-header {
   font-size: 22px;
 }
+
+
+
+#menu1-15 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu1-15 .navbar-toggler {
+  color: #424242;
+}
+#menu1-15 .close-icon::before,
+#menu1-15 .close-icon::after {
+  background-color: #424242;
+}
+#menu1-15 .link,
+#menu1-15 .dropdown-item {
+  color: #424242;
+  font-family: 'Lora', serif;
+}
+#menu1-15 .link {
+  font-size: 0.8125rem;
+}
+#menu1-15 .dropdown-item,
+#menu1-15 .nav-dropdown-sm .link {
+  font-size: 0.880rem;
+}
+#menu1-15 .link:hover,
+#menu1-15 .link:focus {
+  color: #64c2c2;
+}
+#menu1-15 .dropdown-item:hover::before,
+#menu1-15 .dropdown-item:focus::before {
+  background: #64c2c2;
+}
+#menu1-15 .dropdown-item:hover,
+#menu1-15 .dropdown-item:focus {
+  color: #424242;
+}
+#menu1-15 .link[aria-expanded="true"],
+#menu1-15 .dropdown-menu {
+  background: #ffffff;
+}
+#menu1-15 .nav-dropdown-sm .link:focus,
+#menu1-15 .nav-dropdown-sm .link:hover,
+#menu1-15 .nav-dropdown-sm .dropdown-item:focus,
+#menu1-15 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#menu1-15 .navbar,
+#menu1-15 .nav-dropdown-sm,
+#menu1-15 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu1-15 .nav-dropdown-sm .dropdown-menu {
+  background: #fff;
+}
+#menu1-15 .bg-color.transparent .link {
+  color: #424242;
+  transition: none;
+}
+#menu1-15 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu1-15 .bg-color.transparent.opened .link:hover,
+#menu1-15 .bg-color.transparent.opened .link:focus {
+  color: #64c2c2;
+}
+#menu1-15 .link[aria-expanded="true"],
+#menu1-15 .dropdown-item[aria-expanded="true"] {
+  color: #64c2c2!important;
+}
+#menu1-15 A {
+  font-family: 'Indie Flower', cursive;
+}
+#menu1-15 .navbar-caption {
+  font-family: 'Lora', serif;
+}
+#custom-html-17 {
+  /* Type valid CSS here */
+}
+#custom-html-17 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-17 p {
+  font-size: 60px;
+  color: #777;
+}
+#footer2-16 .footer-list {
+  color: #42a5c5;
+}
+#footer2-16 .btn-social {
+  border-color: #42a5c5;
+  color: #42a5c5;
+}
+#footer2-16 .btn-social:hover {
+  background: #42a5c5;
+  color: #fff;
+}
+#footer2-16 .footer-list {
+  color: #42a5c5;
+}
+#footer2-16 .btn-social {
+  border-color: #42a5c5;
+  color: #42a5c5;
+}
+#footer2-16 .btn-social:hover {
+  background: #42a5c5;
+  color: #fff;
+}
+#footer2-16 .footer-header {
+  font-size: 22px;
+}
