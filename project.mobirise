@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 44,
+    "uniqCompNum": 47,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -112,7 +112,7 @@
           "_name": "menu1",
           "_anchor": "menu1-v",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n@import url(https://fonts.googleapis.com/css?family=Indie+Flower);\n@import url(https://fonts.googleapis.com/css?family=Lora:400,700);\n.hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-toggler {\n  color: #424242;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #424242;\n}\n.link, .dropdown-item {\n  color: #424242;\n  font-family: 'Lora', serif;\n}\n.link {\n  font-size: 0.8125rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 0.880rem;\n}\n.link:hover, .link:focus {\n  color: #64c2c2;\n}\n.dropdown-item:hover::before, .dropdown-item:focus::before {\n  background: #64c2c2;\n}\n.dropdown-item:hover, .dropdown-item:focus {\n  color: #424242;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #ffffff;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #f7f7f7!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #fff;\n}\n.bg-color.transparent .link {\n  color: #424242;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #64c2c2;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #64c2c2!important;\n}\nA {\n  font-family: 'Indie Flower', cursive;\n}\n.navbar-caption {\n  font-family: 'Lora', serif;\n}\n",
-          "_customHTML": "<section class=\"menu1\" data-rv-view=\"0\">\n\n    <nav class=\"navbar navbar-dropdown\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell logo\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/image2-1-128x128.jpg\" alt=\"Mobirise\" style=\"height: 5rem;\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">T. S. Snow</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell text\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-lg-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"28\">HOME</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\" code-editable-id=\"29\">BOOKS</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"chaotic.html\" code-editable-id=\"30\">Arcane Mage Series</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"stolenhearts.html\" code-editable-id=\"31\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#content8-6\" aria-expanded=\"false\" code-editable-id=\"32\">ABOUT</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://www.zazzle.com/collections/arcane_mage_series-119442624396022174?rf=238521805782589587\" aria-expanded=\"false\" code-editable-id=\"33\">STORE</a></li></ul>\n\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_customHTML": "<section class=\"menu1\" data-rv-view=\"0\">\n\n    <nav class=\"navbar navbar-dropdown\">\n        <div class=\"container-fluid\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell logo\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"https://mobirise.com\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/image2-1-128x128.jpg\" alt=\"Mobirise\" style=\"height: 5rem;\"></a>\n                        <a class=\"navbar-caption\" href=\"https://mobirise.com\">T. S. Snow</a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell text\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-lg-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://mobirise.com/\" code-editable-id=\"28\">HOME</a></li><li class=\"nav-item dropdown open\"><a class=\"nav-link link dropdown-toggle mbr-editable-menu-item\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\" code-editable-id=\"29\">BOOKS</a><div class=\"dropdown-menu\"><a class=\"dropdown-item mbr-editable-menu-item\" href=\"chaotic.html\" code-editable-id=\"30\">Arcane Mage Series</a><a class=\"dropdown-item mbr-editable-menu-item\" href=\"stolenhearts.html\" code-editable-id=\"31\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"index.html#content8-6\" aria-expanded=\"false\" code-editable-id=\"32\">ABOUT</a></li><li class=\"nav-item dropdown\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://www.zazzle.com/collections/arcane_mage_series-119442624396022174?rf=238521805782589587\" aria-expanded=\"false\" code-editable-id=\"33\">STORE</a></li></ul>\n\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
@@ -475,6 +475,86 @@
         },
         {
           "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fffffd"
+          },
+          "title": "<b>Erratic</b>",
+          "meta": "ARCANE MAGE SERIES BOOK 3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-18",
+          "_customHTML": "<section class=\"mbr-section content3 mbr-section__container mbr-after-navbar\" data-rv-view=\"25\" style=\"background-color: rgb(255, 255, 253); padding-top: 20px; padding-bottom: 20px;\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n            \t<h1 class=\"mbr-section-title display-2 text-center mbr-editable-content\" code-editable-id=\"18\"><strong>Erratic</strong></h1>\n                <p class=\"mbr-section-subtitle sub-2 mbr-editable-content\" code-editable-id=\"19\">ARCANE MAGE SERIES BOOK 3</p>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.mbr-section-title, .mbr-section-subtitle {\n  text-align: center;\n}\nH1 {\n  font-family: 'Lato', sans-serif;\n  color: #4f8699;\n}\nP {\n  color: #4a4a4a;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#030104"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/unnamed-1400x2111.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Download for Windows",
+          "text": "The plan was supposed to be simple:\n<br>\n<br>Graduate as a Magical Engineer? Check.\n<br>\n<br>Get people to finally acknowledge my amazing tech skills? Check…\n<br>Though it was a little more than I bargained for.\n<br>\n<br>Find that special someone who wants me for me? Check…times a lot.\n<br>\n<br>Avoid the Arcane Heirs at all costs? Erh…\n<br>\n<br>Find out who was behind the resistance and stop them from killing even more people?\n<br>It’s a work in progress.\n<br>\n<br>Stay out of trouble?\n<br>*crickets*\n<br>\n<br>In my defense, chaos and trouble have always found me, no matter where I am.\n<br>And having the Arcane Heirs going out of their way to win me over only seems to make things worse.\n<br>\n<br>Conflict is brewing, and I somehow ended up stuck in the middle of it all.\n<br>The last thing I wanted was to be caught in this tug of war,\n<br>\n<br>Especially now that my magic has become Erratic.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "color": "#9bc9d9"
+            }
+          },
+          "_anchor": "content8-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/u/bMXRKB\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read on Amazon</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "buttons1-1a"
+        },
+        {
+          "_params": {
             "showIcons": true,
             "rows": "2",
             "listColor": "@infoColor",
@@ -514,7 +594,20 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n",
-          "_customTemplate": true
+          "_customTemplate": true,
+          "_styles": {
+            ".footer-list": {
+              "color": "@infoColor"
+            },
+            ".btn-social": {
+              "border-color": "@infoColor",
+              "color": "@infoColor"
+            },
+            ".btn-social:hover": {
+              "background": "@infoColor",
+              "color": "#fff"
+            }
+          }
         },
         {
           "_styles": {

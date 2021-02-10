@@ -728,6 +728,37 @@ section.form .container {
 #buttons1-t .btn {
   font-size: 20px;
 }
+#content3-18 {
+  
+}
+#content3-18 .mbr-section-title,
+#content3-18 .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-18 H1 {
+  font-family: 'Lato', sans-serif;
+  color: #4f8699;
+}
+#content3-18 P {
+  color: #4a4a4a;
+}
+#content8-19 P {
+  color: #9bc9d9;
+}
+#buttons1-1a .btn {
+  font-size: 20px;
+}
+#footer2-x .footer-list {
+  color: #42a5c5;
+}
+#footer2-x .btn-social {
+  border-color: #42a5c5;
+  color: #42a5c5;
+}
+#footer2-x .btn-social:hover {
+  background: #42a5c5;
+  color: #fff;
+}
 #footer2-x .footer-list {
   color: #42a5c5;
 }
