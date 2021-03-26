@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "chaotic.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 47,
+    "uniqCompNum": 52,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -63,7 +63,7 @@
         "main": true,
         "title": "T.S.Snow",
         "meta_descr": "\nA scientist at heart, T.S. Snow lives in a land far far away, secluded from most authors and readers (rumor has it that if you open your wardrobe you can find her hiding in there trying to take a nap). T.S. has a thirst for learning new languages, even if she is mostly worried about finding out new curse words in them. She has an amazing support system that include a loving boyfriend, her family, friends and her loyal - if completely lazy - dog. When she's not writing, T.S. can often be found causing complete chaos with her friends on social media, inhaling unhealthy amounts of coffee, or napping. Mostly napping.",
-        "header_custom": "",
+        "header_custom": "<script>\n  (function(w, d, t, s, n) {\n    w.FlodeskObject = n;\n    var fn = function() {\n      (w[n].q = w[n].q || []).push(arguments);\n    };\n    w[n] = w[n] || fn;\n    var f = d.getElementsByTagName(t)[0];\n    var e = d.createElement(t);\n    var h = '?v=' + new Date().getTime();\n    e.async = true;\n    e.src = s + h;\n    f.parentNode.insertBefore(e, f);\n  })(window, document, 'script', 'https://assets.flodesk.com/universal.js', 'fd');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -183,8 +183,8 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "11",
-            "paddingTop": "0",
-            "paddingBottom": 1,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "bgColorRadio": true,
             "bgColor": "#fffffd"
           },
@@ -214,9 +214,34 @@
           "_anchor": "content8-6"
         },
         {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-1350x650.png",
+              "width": 1400,
+              "link": "chaotic.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1f"
+        },
+        {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<div>\n<div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]\n</div>",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -268,7 +293,7 @@
           "_name": "footer2",
           "_anchor": "footer2-w",
           "_customCSS": "@import url(undefined);\n.footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n.footer-header {\n  font-size: 22px;\n}\n",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"12\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"13\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"14\"><a href=\"chaotic.html\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"15\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" style=\"font-size: 9px;\" code-editable-id=\"16\">Amazon</a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" code-editable-id=\"17\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"20\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"21\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"22\"><a href=\"chaotic.html\">Arcane Mage Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"23\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" style=\"font-size: 9px;\" code-editable-id=\"24\">Amazon</a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" code-editable-id=\"25\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
