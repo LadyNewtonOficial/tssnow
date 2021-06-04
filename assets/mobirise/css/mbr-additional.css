@@ -694,6 +694,7 @@ section.form .container {
 
 
 
+
 #content3-h .mbr-section-title,
 #content3-h .mbr-section-subtitle {
   text-align: center;
@@ -746,6 +747,23 @@ section.form .container {
   color: #9bc9d9;
 }
 #buttons1-1a .btn {
+  font-size: 20px;
+}
+#content3-1h .mbr-section-title,
+#content3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1h H1 {
+  font-family: 'Lato', sans-serif;
+  color: #4f8699;
+}
+#content3-1h P {
+  color: #4a4a4a;
+}
+#content8-1g P {
+  color: #9bc9d9;
+}
+#buttons1-1i .btn {
   font-size: 20px;
 }
 #footer2-x .footer-list {
