@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "darkershade.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -280,7 +280,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/livro4-1350x650.png",
+              "src": "@PROJECT_PATH@/assets/images/todososlivros-1350x650.png",
               "width": 1400,
               "link": "chaotic.html",
               "alt": "",
