@@ -90,10 +90,10 @@ h6,
   background-color: #42a5c5 !important;
 }
 .bg-warning {
-  background-color: #fffffd !important;
+  background-color: #f9eace !important;
 }
 .bg-danger {
-  background-color: #9bc9d9 !important;
+  background-color: #bb8c2e !important;
 }
 .btn-primary {
   background-color: #64c2c2;
@@ -176,8 +176,8 @@ h6,
   border-color: #000000 !important;
 }
 .btn-warning {
-  background-color: #fffffd;
-  border-color: #fffffd;
+  background-color: #f9eace;
+  border-color: #f9eace;
   color: #ffffff;
 }
 .btn-warning:hover,
@@ -186,18 +186,18 @@ h6,
 .btn-warning:active,
 .btn-warning.active {
   color: #ffffff;
-  background-color: #ffffb1;
-  border-color: #ffffb1;
+  background-color: #f1cd8a;
+  border-color: #f1cd8a;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #ffffb1 !important;
-  border-color: #ffffb1 !important;
+  background-color: #f1cd8a !important;
+  border-color: #f1cd8a !important;
 }
 .btn-danger {
-  background-color: #9bc9d9;
-  border-color: #9bc9d9;
+  background-color: #bb8c2e;
+  border-color: #bb8c2e;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -206,14 +206,14 @@ h6,
 .btn-danger:active,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #64abc4;
-  border-color: #64abc4;
+  background-color: #7e5e1f;
+  border-color: #7e5e1f;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #64abc4 !important;
-  border-color: #64abc4 !important;
+  background-color: #7e5e1f !important;
+  border-color: #7e5e1f !important;
 }
 .btn-primary-outline {
   background: none;
@@ -297,8 +297,8 @@ h6,
 }
 .btn-warning-outline {
   background: none;
-  border-color: #ffff97;
-  color: #ffff97;
+  border-color: #eec373;
+  color: #eec373;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
@@ -306,19 +306,19 @@ h6,
 .btn-warning-outline:active,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #fffffd;
-  border-color: #fffffd;
+  background-color: #f9eace;
+  border-color: #f9eace;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #fffffd !important;
-  border-color: #fffffd !important;
+  background-color: #f9eace !important;
+  border-color: #f9eace !important;
 }
 .btn-danger-outline {
   background: none;
-  border-color: #51a1bd;
-  color: #51a1bd;
+  border-color: #694f1a;
+  color: #694f1a;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
@@ -326,14 +326,14 @@ h6,
 .btn-danger-outline:active,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #9bc9d9;
-  border-color: #9bc9d9;
+  background-color: #bb8c2e;
+  border-color: #bb8c2e;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #9bc9d9 !important;
-  border-color: #9bc9d9 !important;
+  background-color: #bb8c2e !important;
+  border-color: #bb8c2e !important;
 }
 .text-primary {
   color: #64c2c2 !important;
@@ -345,10 +345,10 @@ h6,
   color: #42a5c5 !important;
 }
 .text-warning {
-  color: #fffffd !important;
+  color: #f9eace !important;
 }
 .text-danger {
-  color: #9bc9d9 !important;
+  color: #bb8c2e !important;
 }
 .alert-success {
   background-color: #030104;
@@ -357,10 +357,10 @@ h6,
   background-color: #42a5c5;
 }
 .alert-warning {
-  background-color: #fffffd;
+  background-color: #f9eace;
 }
 .alert-danger {
-  background-color: #9bc9d9;
+  background-color: #bb8c2e;
 }
 .mbr-company .list-group-item.active .list-group-text {
   color: #64c2c2;
@@ -402,7 +402,7 @@ h6,
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #ffffff;
+  color: #e1c387;
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
@@ -787,7 +787,7 @@ section.form .container {
 }
 #content3-1m H1 {
   font-family: 'Lato', sans-serif;
-  color: #fffffd;
+  color: #dfd9ca;
 }
 #content3-1m P {
   color: #fffcf6;
@@ -796,7 +796,7 @@ section.form .container {
   font-family: 'Bitter', serif;
 }
 #content8-1l P {
-  color: #9bc9d9;
+  color: #f9eace;
 }
 #buttons1-1n .btn {
   font-size: 20px;
@@ -1112,7 +1112,7 @@ section.form .container {
 }
 #content3-1r H1 {
   font-family: 'Lato', sans-serif;
-  color: #fffffd;
+  color: #dfd9ca;
 }
 #content3-1r P {
   color: #fffcf6;
@@ -1121,7 +1121,10 @@ section.form .container {
   font-family: 'Bitter', serif;
 }
 #content8-1s P {
-  color: #9bc9d9;
+  color: #f9eace;
+}
+#buttons1-1t .btn {
+  font-size: 20px;
 }
 
 

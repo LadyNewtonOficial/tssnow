@@ -10,8 +10,8 @@
         "secondaryColor": "#9bc9d9",
         "successColor": "#030104",
         "infoColor": "#42a5c5",
-        "warningColor": "#fffffd",
-        "dangerColor": "#9bc9d9",
+        "warningColor": "#f9eace",
+        "dangerColor": "#bb8c2e",
         "titleFont": "Lora",
         "subtitleFont": "Merriweather",
         "textFont": "Merriweather",
@@ -20,20 +20,20 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#f9eace",
+        "#efaffa",
         "#264a54",
         "#232323",
         "#64c2c2",
         "#708acf",
-        "#4f8699",
-        "#4a4a4a",
-        "#9bc9d9"
+        "#4f8699"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -755,7 +755,7 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#fffffd"
+              "color": "#dfd9ca"
             },
             "P": {
               "color": "#fffcf6"
@@ -795,7 +795,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/capa-5olivro-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/darker-shade-livro1-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -816,7 +816,7 @@
           "_name": "content8",
           "_styles": {
             "P": {
-              "color": "#9bc9d9"
+              "color": "#f9eace"
             }
           },
           "_anchor": "content8-1l"
@@ -1449,7 +1449,7 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#fffffd"
+              "color": "#dfd9ca"
             },
             "P": {
               "color": "#fffcf6"
@@ -1489,7 +1489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/capa-5olivro-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/darker-shade-livro1-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1502,7 +1502,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Battle Mage or Magical Engineer?<br>Easy choice, right?<br>Engineer. Obviously. <br>I'm Charisma Carter, tech genius and nerd extraordinaire.<br><br>I actually used to be Charisma Silverstorm, member of one of the six elite Arcane Families, until my family shunned me when I turned 18 because my magic wasn't strong enough. <br>However, where I lack in magic I more than make up for with the tech I develop, if I do say so myself.<br>Apparently, I'm not the only one.<br><br>From the minute I received my diploma as a magical engineer, it seems like my world has turned upside down.<br>Now members of all six families are competing to get me to work for them.<br>They're willing to use anything, from bribes to charm. <br>It's not enough that the heirs to Arcane are walking sex gods, they also have a lot of money and exceptional magical skills. <br><br>As our paths intertwine, <br>I have to try to stay true to who I am, who I've always been, and not succumb to their charms. <br>But how can a girl resist when the future she always dreamed of is right at her fingertips?",
+          "text": "Death calls, I answer.\n<br>Quite literally.\n<br>\n<br>Every time I close my eyes, I see those who are about to die, \n<br>And I’m unable to do anything to stop it. \n<br>Until one day, when I try to save yet another victim, \n<br>Something inside of me just…flips.\n<br>\n<br>The shadows rise, and they’re hungry. \n<br>\n<br>All I ever wanted was to be normal,\n<br>Instead, I found out just how different I am. \n<br>I must learn to control my powers, to take charge of my life. \n<br>Because if not? Well, there are angels out there hunting me.\n<br>\n<br>I’m told demons are safe, demons won’t care about what I am. \n<br>But if an angel ever finds out…. They’ll kill me on sight. \n<br>They think I’m a monster, something forbidden. \n<br>\n<br>They can never know the truth.\n<br>\n<br>When I stumble upon a group of men at a club, two demons and an angel, \n<br>I don’t know what to do.\n<br>I should run, but there’s something about them that calls to me. \n<br>Something deliciously wicked. \n<br>Something I want to explore. \n<br>\n<br>But giving into temptation might just bring my downfall.&nbsp;<br>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -1510,10 +1510,28 @@
           "_name": "content8",
           "_styles": {
             "P": {
-              "color": "#9bc9d9"
+              "color": "#f9eace"
             }
           },
           "_anchor": "content8-1s"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://books2read.com/darkershade1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read Now</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "buttons1-1t"
         }
       ]
     },
