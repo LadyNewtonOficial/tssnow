@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 56,
+    "uniqCompNum": 60,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -153,7 +153,7 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -463,11 +463,11 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-s",
-          "_styles": {
-            ".btn": {
-              "font-size": "20px"
-            }
-          }
+          "_customCSS": ".btn {\n  font-size: 20px;\n}\n",
+          "_customHTML": "<section class=\"mbr-section buttons1 mbr-section__container mbr-after-navbar\" data-rv-view=\"28\" style=\"background-color: rgb(0, 0, 0); padding-top: 20px; padding-bottom: 20px;\">\n\n    <div class=\"container-fluid\">\n        <div class=\"row\">\n            <div class=\"col-xs-12\">\n                <div class=\"text-xs-center\"><a class=\"btn btn-lg btn-primary mbr-editable-button\" href=\"https://books2read.com/u/3kWxN8\" target=\"_blank\" code-editable-id=\"49\">Read on Amazon</a> </div>\n                                <div class=\"text-xs-center\"><a class=\"btn btn-lg mbr-editable-button btn-black\" href=\"https://books2read.com/u/3kWxN8\" target=\"_blank\" code-editable-id=\"50\">Listen to Audiobook</a> </div>\n            </div>\n            </div>\n            </div>\n          \n\n   \n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_styles": {
@@ -726,6 +726,94 @@
           "_anchor": "buttons1-1i"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#4f8699"
+            },
+            "P": {
+              "color": "#4a4a4a"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fffffd"
+          },
+          "title": "<b>Ecstatic</b>",
+          "meta": "ARCANE MAGE SERIES BOOK 5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1m"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#030104"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/capa-5olivro-1400x2100.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Download for Windows",
+          "text": "&nbsp;",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "color": "#9bc9d9"
+            }
+          },
+          "_anchor": "content8-1l"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/arcanemage5\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read on Amazon</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "buttons1-1n"
+        },
+        {
           "_params": {
             "showIcons": true,
             "rows": "2",
@@ -832,7 +920,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#64c2c2!important"
             },
             "A": {
               "font-family": "'Indie Flower', cursive",
@@ -866,7 +954,7 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1095,7 +1183,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#64c2c2!important"
             },
             "A": {
               "font-family": "'Indie Flower', cursive",
@@ -1129,7 +1217,7 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1317,7 +1405,7 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\">Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\">Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,

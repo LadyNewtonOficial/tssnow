@@ -699,6 +699,7 @@ section.form .container {
 
 
 
+
 #content3-h .mbr-section-title,
 #content3-h .mbr-section-subtitle {
   text-align: center;
@@ -768,6 +769,23 @@ section.form .container {
   color: #9bc9d9;
 }
 #buttons1-1i .btn {
+  font-size: 20px;
+}
+#content3-1m .mbr-section-title,
+#content3-1m .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1m H1 {
+  font-family: 'Lato', sans-serif;
+  color: #4f8699;
+}
+#content3-1m P {
+  color: #4a4a4a;
+}
+#content8-1l P {
+  color: #9bc9d9;
+}
+#buttons1-1n .btn {
   font-size: 20px;
 }
 #footer2-x .footer-list {
@@ -855,7 +873,7 @@ section.form .container {
 }
 #menu1-1j .link[aria-expanded="true"],
 #menu1-1j .dropdown-item[aria-expanded="true"] {
-  color: #64c2c2 !important;
+  color: #64c2c2!important;
 }
 #menu1-1j A {
   font-family: 'Indie Flower', cursive;
@@ -962,7 +980,7 @@ section.form .container {
 }
 #menu1-1j .link[aria-expanded="true"],
 #menu1-1j .dropdown-item[aria-expanded="true"] {
-  color: #64c2c2 !important;
+  color: #64c2c2!important;
 }
 #menu1-1j A {
   font-family: 'Indie Flower', cursive;
