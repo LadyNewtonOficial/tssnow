@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "chaotic.html",
+    "currentPage": "darkershade.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -755,10 +755,10 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#64c2c2"
+              "color": "#ffd785"
             },
             "P": {
-              "color": "#232323"
+              "color": "#fffffd"
             },
             "B": {
               "font-family": "'Merriweather', serif",
@@ -795,7 +795,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/capa-5olivro-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/darker-shade-livro1-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1449,10 +1449,10 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#64c2c2"
+              "color": "#ffd785"
             },
             "P": {
-              "color": "#232323"
+              "color": "#fffffd"
             },
             "B": {
               "font-family": "'Merriweather', serif",
@@ -1489,7 +1489,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/capa-5olivro-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/darker-shade-livro1-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
