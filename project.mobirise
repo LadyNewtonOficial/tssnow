@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 66,
+    "uniqCompNum": 68,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -1277,6 +1277,34 @@
       },
       "components": [
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#4f8699"
+            },
+            "P": {
+              "color": "#4a4a4a"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "5",
+            "paddingBottom": "1",
+            "bgColor": "#fffffd"
+          },
+          "title": "<b>Rise of Shadows</b>",
+          "meta": "DARKER SHADE SERIES - BOOK ONE",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-1u"
+        },
+        {
           "_params": {
             "showIcons": true,
             "rows": "2",
@@ -1442,38 +1470,6 @@
           "_anchor": "menu1-1q"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H1": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#ffd785"
-            },
-            "P": {
-              "color": "#fffffd"
-            },
-            "B": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "5",
-            "paddingBottom": "1",
-            "bgColor": "#000000"
-          },
-          "title": "<b>Rise of Shadows</b>",
-          "meta": "DARKER SHADE SERIES - BOOK 1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content3",
-          "_anchor": "content3-1r"
-        },
-        {
           "_params": {
             "showTitle": false,
             "showText": true,
@@ -1502,7 +1498,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Death calls, I answer.\n<br>Quite literally.\n<br>\n<br>Every time I close my eyes, I see those who are about to die, \n<br>And I’m unable to do anything to stop it. \n<br>Until one day, when I try to save yet another victim, \n<br>Something inside of me just…flips.\n<br>\n<br>The shadows rise, and they’re hungry. \n<br>\n<br>All I ever wanted was to be normal,\n<br>Instead, I found out just how different I am. \n<br>I must learn to control my powers, to take charge of my life. \n<br>Because if not? Well, there are angels out there hunting me.\n<br>\n<br>I’m told demons are safe, demons won’t care about what I am. \n<br>But if an angel ever finds out…. They’ll kill me on sight. \n<br>They think I’m a monster, something forbidden. \n<br>\n<br>They can never know the truth.\n<br>\n<br>When I stumble upon a group of men at a club, two demons and an angel, \n<br>I don’t know what to do.\n<br>I should run, but there’s something about them that calls to me. \n<br>Something deliciously wicked. \n<br>Something I want to explore. \n<br>\n<br>But giving into temptation might just bring my downfall.&nbsp;<br>",
+          "text": "Death calls, I answer. \n<br>Quite literally. \n<br>\n<br>Every time I close my eyes, I see those who are about to die, \n<br>And I’m unable to do anything to stop it. \n<br>Until one day, when I try to save yet another victim, \n<br>Something inside of me just…flips. \n<br>\n<br>The shadows rise, and they’re hungry. \n<br>\n<br>All I ever wanted was to be normal, \n<br>Instead, I found out just how different I am. \n<br>I must learn to control my powers, to take charge of my life. \n<br>Because if not? Well, there are angels out there hunting me. \n<br>\n<br>I’m told demons are safe, demons won’t care about what I am. \n<br>But if an angel ever finds out…. They’ll kill me on sight. \n<br>They think I’m a monster, something forbidden. \n<br>\n<br>They can never know the truth. \n<br>\n<br>When I stumble upon a group of men at a club, two demons and an angel, \n<br>I don’t know what to do. \n<br>I should run, but there’s something about them that calls to me. \n<br>Something deliciously wicked. \n<br>Something I want to explore. \n<br>\n<br>But giving into temptation might just bring my downfall.&nbsp;",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -1513,7 +1509,7 @@
               "color": "#f9eace"
             }
           },
-          "_anchor": "content8-1s"
+          "_anchor": "content8-1v"
         },
         {
           "_params": {

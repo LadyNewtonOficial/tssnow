@@ -1008,7 +1008,17 @@ section.form .container {
 
 
 
-
+#content3-1u .mbr-section-title,
+#content3-1u .mbr-section-subtitle {
+  text-align: center;
+}
+#content3-1u H1 {
+  font-family: 'Lato', sans-serif;
+  color: #4f8699;
+}
+#content3-1u P {
+  color: #4a4a4a;
+}
 #footer2-1p .footer-list {
   color: #42a5c5;
 }
@@ -1105,21 +1115,7 @@ section.form .container {
 #menu1-1q .btn {
   font-family: 'Roboto', sans-serif;
 }
-#content3-1r .mbr-section-title,
-#content3-1r .mbr-section-subtitle {
-  text-align: center;
-}
-#content3-1r H1 {
-  font-family: 'Lato', sans-serif;
-  color: #ffd785;
-}
-#content3-1r P {
-  color: #fffffd;
-}
-#content3-1r B {
-  font-family: 'Merriweather', serif;
-}
-#content8-1s P {
+#content8-1v P {
   color: #f9eace;
 }
 #buttons1-1t .btn {
