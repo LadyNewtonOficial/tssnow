@@ -786,13 +786,13 @@ section.form .container {
 }
 #content3-1m H1 {
   font-family: 'Lato', sans-serif;
-  color: #ffd785;
+  color: #4f8699;
 }
 #content3-1m P {
-  color: #fffffd;
+  color: #232323;
 }
 #content3-1m B {
-  font-family: 'Merriweather', serif;
+  font-family: 'Lato', sans-serif;
 }
 #content8-1l P {
   color: #f9eace;
@@ -1115,8 +1115,9 @@ section.form .container {
 #menu1-1q .btn {
   font-family: 'Roboto', sans-serif;
 }
-#content8-1v P {
-  color: #f9eace;
+#content8-1x P {
+  color: #ffd785;
+  text-align: left;
 }
 #buttons1-1t .btn {
   font-size: 20px;

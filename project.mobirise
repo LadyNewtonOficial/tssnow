@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "darkershade.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 68,
+    "uniqCompNum": 70,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -755,14 +755,14 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#ffd785"
+              "color": "#4f8699"
             },
             "P": {
-              "color": "#fffffd"
+              "color": "#232323"
             },
             "B": {
-              "font-family": "'Merriweather', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_params": {
@@ -795,7 +795,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/darker-shade-livro1-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/capa-5olivro-1400x2100.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -1474,12 +1474,12 @@
             "showTitle": false,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
-            "imageSize": "40",
+            "inverse": false,
+            "imageSize": "49",
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColorRadio": true,
-            "bgColor": "#030104"
+            "bgColor": "#000000"
           },
           "media": {
             "image": {
@@ -1504,12 +1504,13 @@
             "Theme"
           ],
           "_name": "content8",
+          "_anchor": "content8-1x",
           "_styles": {
             "P": {
-              "color": "#f9eace"
+              "color": "#ffd785",
+              "text-align": "left"
             }
-          },
-          "_anchor": "content8-1v"
+          }
         },
         {
           "_params": {
@@ -1517,7 +1518,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://books2read.com/darkershade1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read Now</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://books2read.com/darkershade1\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read Now</a> ",
           "_tags": [
             "Theme"
           ],
