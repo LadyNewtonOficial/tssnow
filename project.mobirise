@@ -300,7 +300,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n<div>\n<div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]\n</div>",
+          "_customHTML": "\n\n<div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]\n",
           "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
