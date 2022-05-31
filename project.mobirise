@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -20,20 +20,20 @@
         "isScrollToTopButton": true
       },
       "additionalSetColors": [
+        "#9bc9d9",
         "#f9eace",
         "#efaffa",
         "#264a54",
         "#232323",
         "#64c2c2",
-        "#708acf",
-        "#4f8699"
+        "#708acf"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 71,
+    "uniqCompNum": 74,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -808,7 +808,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "&nbsp;",
+          "text": "&nbsp;Be a Magical Engineer, they say\n<br>It’ll be fun, they say.\n<br>\n<br>Yeah…not so much.\n<br>\n<br>From the minute I graduated, my life was turned upside down.\n<br>And things only got worse when I helped AMIA in their efforts to take down the resistance.\n<br>\n<br>Now Logan, Theo, and I are at the rebel's mercy.\n<br>They want us dead, but we’re determined to see another day.\n<br>\n<br>All we have to do is find a way out of this hole, fight a bazillion rebels,\n<br>And save the day, so I can go back to my men.\n<br>No big deal, right?\n<br>\n<br>If we live through this, and I get to see my men again, I'll be Ecstatic.\n<br>And if I take down my psycho cousin while we’re at it, that’s even better.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -816,7 +816,7 @@
           "_name": "content8",
           "_styles": {
             "P": {
-              "color": "#f9eace"
+              "color": "#9bc9d9"
             }
           },
           "_anchor": "content8-1l"
@@ -838,6 +838,94 @@
             }
           },
           "_anchor": "buttons1-1n"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H1": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "color": "#4f8699"
+            },
+            "P": {
+              "color": "#4a4a4a"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgColor": "#fffffd"
+          },
+          "title": "<b>Chaotic</b>",
+          "meta": "ARCANE MAGE SERIES BOOK 1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content3",
+          "_anchor": "content3-20"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": true,
+            "inverse": true,
+            "imageSize": "40",
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColorRadio": true,
+            "bgColor": "#030104"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/add-a-heading-1400x2240.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "Download for Windows",
+          "text": "Battle Mage or Magical Engineer?<br>Easy choice, right?<br>Engineer. Obviously. <br>I'm Charisma Carter, tech genius and nerd extraordinaire.<br><br>I actually used to be Charisma Silverstorm, member of one of the six elite Arcane Families, until my family shunned me when I turned 18 because my magic wasn't strong enough. <br>However, where I lack in magic I more than make up for with the tech I develop, if I do say so myself.<br>Apparently, I'm not the only one.<br><br>From the minute I received my diploma as a magical engineer, it seems like my world has turned upside down.<br>Now members of all six families are competing to get me to work for them.<br>They're willing to use anything, from bribes to charm. <br>It's not enough that the heirs to Arcane are walking sex gods, they also have a lot of money and exceptional magical skills. <br><br>As our paths intertwine, <br>I have to try to stay true to who I am, who I've always been, and not succumb to their charms. <br>But how can a girl resist when the future she always dreamed of is right at her fingertips?",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_styles": {
+            "P": {
+              "color": "#9bc9d9"
+            }
+          },
+          "_anchor": "content8-1z"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#000000"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/arcanemage6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read on Amazon</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_styles": {
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "buttons1-21"
         },
         {
           "_params": {
