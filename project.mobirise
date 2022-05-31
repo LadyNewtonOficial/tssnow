@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "arcaneagent.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -883,7 +883,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/deadly-illusions-ebook-v2-1400x2100.jpg",
+              "src": "@PROJECT_PATH@/assets/images/add-a-heading-1400x2240.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -915,7 +915,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/arcanemage6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read on Amazon</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/arcanemage6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pre Order</a> ",
           "_tags": [
             "Theme"
           ],
