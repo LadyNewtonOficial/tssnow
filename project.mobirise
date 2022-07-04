@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "arcaneagent.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.0",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 79,
+    "uniqCompNum": 80,
     "versionPublish": "4.12.0",
     "screenshot": "screenshot.png",
     "cookiesAlert": {
@@ -280,7 +280,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/todososlivros-1350x650.png",
+              "src": "@PROJECT_PATH@/assets/images/livrosts-1280x721.jpg",
               "width": 1400,
               "link": "chaotic.html",
               "alt": "",
@@ -300,14 +300,14 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "\n\n<div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]\n",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n\n\n    <div id=\"fd-form-5fc55ddd12ed667015a5b6d6\"></div>\n[JS_CODE_0]\n    ",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  color: #7777;\n\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-1y",
+          "_anchor": "custom-html-27",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script>\n  window.fd('form', {\n    formId: '5fc55ddd12ed667015a5b6d6',\n    containerEl: '#fd-form-5fc55ddd12ed667015a5b6d6'\n  });\n</script>"
@@ -352,7 +352,7 @@
           "_name": "footer2",
           "_anchor": "footer2-w",
           "_customCSS": "@import url(undefined);\n.footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n.footer-header {\n  font-size: 22px;\n}\n",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\" global=\"\" once=\"footer\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"110\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"111\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"112\"><a href=\"chaotic.html\">Arcane Mage Series</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"113\"><a href=\"darkershade.html\">Darker Shade Series</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"114\"><a href=\"arcaneagent.html\">Arcane Agent Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"115\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" style=\"font-size: 9px;\" code-editable-id=\"116\">Amazon</a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" code-editable-id=\"117\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\" global=\"\" once=\"footer\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"58\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"59\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"60\"><a href=\"chaotic.html\">Arcane Mage Series</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"61\"><a href=\"darkershade.html\">Darker Shade Series</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"62\"><a href=\"arcaneagent.html\">Arcane Agent Series</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"63\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" style=\"font-size: 9px;\" code-editable-id=\"64\">Amazon</a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" code-editable-id=\"65\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
