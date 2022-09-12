@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "chaotic.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -870,7 +870,7 @@
         {
           "_params": {
             "showTitle": false,
-            "showText": false,
+            "showText": true,
             "showButtons": true,
             "inverse": true,
             "imageSize": "40",
@@ -883,7 +883,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/add-a-heading-1400x2240.jpg",
+              "src": "@PROJECT_PATH@/assets/images/charismatic-ebook-1-1400x2029.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -896,7 +896,7 @@
             }
           },
           "title": "Download for Windows",
-          "text": "Battle Mage or Magical Engineer?<br>Easy choice, right?<br>Engineer. Obviously. <br>I'm Charisma Carter, tech genius and nerd extraordinaire.<br><br>I actually used to be Charisma Silverstorm, member of one of the six elite Arcane Families, until my family shunned me when I turned 18 because my magic wasn't strong enough. <br>However, where I lack in magic I more than make up for with the tech I develop, if I do say so myself.<br>Apparently, I'm not the only one.<br><br>From the minute I received my diploma as a magical engineer, it seems like my world has turned upside down.<br>Now members of all six families are competing to get me to work for them.<br>They're willing to use anything, from bribes to charm. <br>It's not enough that the heirs to Arcane are walking sex gods, they also have a lot of money and exceptional magical skills. <br><br>As our paths intertwine, <br>I have to try to stay true to who I am, who I've always been, and not succumb to their charms. <br>But how can a girl resist when the future she always dreamed of is right at her fingertips?",
+          "text": "Life as a Magical Engineer has never been quite as I expected it would,\n<br>but the truth is, I wouldn't change it for the world.\n<br>\n<br>Sure, there have been a lot of obstacles,\n<br>My apartment was blown up; I've been kidnapped,\n<br>My psycho cousin even tried to have me killed.\n<br>And now, my parents are forcing me to marry someone they picked.\n<br>\n<br>However, I also met some pretty amazing people,\n<br>Helped AMIA dismantle the resistance,\n<br>And even stopped a coup from happening.\n<br>\n<br>But most of all, I found love.",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">Learn more</a>",
           "_tags": [
             "Theme"
@@ -915,7 +915,7 @@
             "paddingBottom": 1,
             "bgColor": "#000000"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/arcanemage6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pre Order</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://books2read.com/arcanemage6\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Read Now</a> ",
           "_tags": [
             "Theme"
           ],
