@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "index.html",
+    "currentPage": "knottybynature.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -1913,11 +1913,11 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#742282",
+              "color": "#a25dae",
               "text-align": "right"
             },
             "P": {
-              "color": "#4a4a4a"
+              "color": "#c48cce"
             },
             "B": {
               "font-family": "'Oxygen', sans-serif",
@@ -1928,7 +1928,7 @@
             "showMeta": true,
             "paddingTop": "5",
             "paddingBottom": "1",
-            "bgColor": "#9bc9d9"
+            "bgColor": "#000000"
           },
           "title": "<b>Allure: Part 1</b>",
           "meta": "Knotty by Nature Book 1",
@@ -2007,11 +2007,11 @@
             "H1": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "color": "#742282",
+              "color": "#a25dae",
               "text-align": "right"
             },
             "P": {
-              "color": "#4a4a4a"
+              "color": "#a25dae"
             },
             "B": {
               "font-family": "'Oxygen', sans-serif",
@@ -2022,7 +2022,7 @@
             "showMeta": true,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "bgColor": "#9bc9d9"
+            "bgColor": "#000000"
           },
           "title": "<font face=\"Oxygen, sans-serif\"><b>Allure: Part 2</b></font>",
           "meta": "Knotty by Nature Book 2",
