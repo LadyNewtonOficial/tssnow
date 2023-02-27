@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Thais Snow",
-    "currentPage": "knottybynature.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "directm",
       "title": "DirectM",
@@ -153,11 +153,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -185,7 +185,7 @@
             "contentAlign": "center",
             "showArrow": false,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/chaotic-final-ebook-1807x2700.jpeg",
+            "bgImage": "@PROJECT_PATH@/assets/images/logobonita-2000x2000.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#bdb39a",
@@ -252,7 +252,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-1280x1280.jpeg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-1400x1400.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -280,7 +280,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/livrosts-1280x721.jpg",
+              "src": "@PROJECT_PATH@/assets/images/todososlivros-1400x789.png",
               "width": 1400,
               "link": "chaotic.html",
               "alt": "",
@@ -352,7 +352,7 @@
           "_name": "footer2",
           "_anchor": "footer2-w",
           "_customCSS": "@import url(undefined);\n.footer-list {\n  color: #42a5c5;\n}\n.btn-social {\n  border-color: #42a5c5;\n  color: #42a5c5;\n}\n.btn-social:hover {\n  background: #42a5c5;\n  color: #fff;\n}\n.footer-header {\n  font-size: 22px;\n}\n",
-          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\" global=\"\" once=\"footer\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"100\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"101\"><a href=\"stolenhearts.html\" target=\"_blank\">Stolen Hearts</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"102\"><a href=\"chaotic.html\">Arcane Mage</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"103\"><a href=\"arcaneagent.html\">Arcane Agent</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"104\"><a href=\"darkershade.html\">Darker Shade</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"105\"><a href=\"knottybynature.html\">Knotty by Nature</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"106\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" style=\"font-size: 9px;\" code-editable-id=\"107\">Amazon</a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" code-editable-id=\"108\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section footer2 mbr-after-navbar\" data-rv-view=\"15\" style=\"background-color: rgb(255, 255, 255); padding-top: 40px; padding-bottom: 40px;\" global=\"\" once=\"footer\">\n\n    \n\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-xs-12 text-xs-center\">\n                <p class=\"footer-header mbr-section-title sub-2 mbr-editable-content\" code-editable-id=\"73\">T.S.Snow</p>\n\n                <div class=\"footer-list mbr-section-text text-1\">\n                    <ul>\n                       \n                        <li class=\"mbr-editable-content\" code-editable-id=\"74\"><a href=\"chaotic.html\">Arcane Mage</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"75\"><a href=\"arcaneagent.html\">Arcane Agent</a></li>\n                        <li class=\"mbr-editable-content\" code-editable-id=\"76\"><a href=\"darkershade.html\">Darker Shade</a></li>\n                        <li class=\"last mbr-editable-content\" code-editable-id=\"77\"><a href=\"knottybynature.html\">Knotty by Nature</a></li>\n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                        \n                    </ul>\n                </div>\n\n                <div> <a class=\"btn btn-social mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/tssnowaurhor/\" code-editable-id=\"78\"><i class=\"socicon socicon-facebook\"></i></a> <a class=\"btn btn-social mbr-editable-button\" title=\"Amazon\" target=\"_blank\" href=\"https://www.amazon.com/T-S-Snow/e/B081Y7SRS8/\" style=\"font-size: 9px;\" code-editable-id=\"79\">Amazon</a> <a class=\"btn btn-social mbr-editable-button\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/authortssnow/\" code-editable-id=\"80\"><i class=\"socicon socicon-instagram\"></i></a>      </div>\n            </div>\n        </div>\n    </div>\n\n\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true,
@@ -376,7 +376,7 @@
       "settings": {
         "title": "Arcane Mage Series",
         "order": 6,
-        "meta_image": "@PROJECT_PATH@/assets/images/chaotic-final-ebook-1807x2700.jpeg",
+        "meta_image": "@PROJECT_PATH@/assets/images/chaotic%20final%20ebook-1807x2700.jpeg",
         "meta_descr": "\nThe Arcane Mage series follows the path of Charisma Carter, tech genius and nerd extraordinary, as she tries to find her way as a Magical Engineer in a society that shunned her. In order to do that, Charisma has to use her socially awkward skills to juggle hot men who are after her for reasons only they know, her family, and all the obligations of her job.\n"
       },
       "components": [
@@ -1012,11 +1012,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1220,11 +1220,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1366,11 +1366,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1558,11 +1558,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1675,11 +1675,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -1881,11 +1881,11 @@
             "fontColor": "#424242",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stolenhearts.html\"><span class=\"icon54-v3-heart-2 mbr-iconfont mbr-iconfont-btn\"></span>Stolen Hearts</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">BOOKS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"darkershade.html\"><span class=\"icon54-v1-new-tag2 mbr-iconfont mbr-iconfont-btn\"></span>Darker Shade Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chaotic.html\"><span class=\"mdi-image-filter-6 mbr-iconfont mbr-iconfont-btn\"></span>Arcane Mage Series</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"arcaneagent.html\"><span class=\"mbrib-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Acane Agent Series</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content8-6\" aria-expanded=\"false\">ABOUT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"https://www.zazzle.com/store/tssnowbookmerch\">sTORE</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/image2-1-128x128.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logoredonda-128x128.jpeg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
